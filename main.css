@@ -263,3 +263,11 @@ a {
     font-size: 40px;
     letter-spacing: 2px;
 }
+
+.dropdown-menu{
+    background-color: #765ff8;
+}
+
+.dropdown-item{
+    color: snow;
+}
