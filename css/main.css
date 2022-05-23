@@ -59,7 +59,7 @@ body {
 .heading {
     padding: 160px 50px ;
     color: #fff ;
-    background-image: url("/assets/wavy-purple-by-nouridio.svg") ;
+    background-image: url("./assets/wavy-purple-by-nouridio.svg") ;
     background-position: bottom ;
     background-size: 300% ;
     background-repeat: no-repeat ;
@@ -82,7 +82,7 @@ body {
     text-align: center ;
     background: #f85f5f ;
     padding: 60px 50px ;
-    background-image: url("/assets/wavy-dark-by-nouridio.svg") ;
+    background-image: url("./assets/wavy-dark-by-nouridio.svg") ;
     background-position: bottom ;
     background-size: 200% ;
     background-repeat: no-repeat ;
@@ -157,14 +157,14 @@ nav {
 
 
 .page_end {
-    background-image: url("/assets/wavy-light-by-nouridio.svg") ;
+    background-image: url("./assets/wavy-light-by-nouridio.svg") ;
     background-position: bottom ;
     background-size: 200% ;
     background-repeat: no-repeat ;
 }
 
 .page_end2 {
-    background-image: url("/assets/wavy-red-by-ppc.svg") ;
+    background-image: url("./assets/wavy-red-by-ppc.svg") ;
     background-position: bottom ;
     background-size: 200% ;
     background-repeat: no-repeat ;
